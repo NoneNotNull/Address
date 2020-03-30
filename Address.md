@@ -49,7 +49,7 @@
 | ★泛微oa | RCE、SQL注入 | 2年内版本 |
 |★FineReport      | RCE、SQL注入 | 2年内版本 |
 | ★Adobe Experience Manager | RCE、SQL注入 | 2年内版本 |
-| ★奇智堡垒机  | RCE、SQL注入 | 2年内版本 |
+| ★奇治堡垒机（付费）  | RCE、SQL注入 | 2年内版本 |
 | ★ThinkPHP | RCE、SQL注入 | 2年内版本 |
 | ★久其报表 | RCE、SQL注入 | 2年内版本 |
 | ★Journalx | RCE、SQL注入 | 2年内版本 |
